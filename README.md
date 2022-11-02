@@ -1,2 +1,2 @@
 # Pethome
-This is a organization provide cats and dogs adoption
+This is a organization provide cats and dogs adoption.
